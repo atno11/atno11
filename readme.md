@@ -3,7 +3,7 @@
 <div>
   <p>Hi, i'm Gilmar Antonio, but you can call me Atno.</p>
   <p>Born and raised at Curitiba/PR, since i was a kid, technology was my passion, my first touch with her was a old desktop of my father, and this shaped all the love and enthusiasm that i give to the technology.</p>
-  <p>My first professional experience with development, was an a intern frontend developer with Angular, since that, i've been studying VueJS, Rust and Java</p>
+  <p>Worked about a 1 year with Angular + Firebase, since that, i've been studying VueJS, Rust and Java</p>
   ✉️ Contact or freelance at: <a href="mailto:atno@albusnexus.com">atno@albusnexus.com</a>
 </div>
 
